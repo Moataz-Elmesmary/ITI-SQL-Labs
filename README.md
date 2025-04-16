@@ -1,4 +1,4 @@
-# ITI SQL Server Labs - Complete Solutions
+# ITI SQL Labs - Complete Solutions
 
 <table align="right">
   <tr>
@@ -9,7 +9,7 @@
 </table>
 
 ## 📋 Repository Description  
-A comprehensive collection of my **SQL Server lab solutions** from the ITI curriculum, featuring:
+ITI DB-SQL Labs Answers by me, featuring:
 
 - **Fully documented** code solutions  
 - **Visual schema diagrams**  
@@ -25,7 +25,7 @@ A comprehensive collection of my **SQL Server lab solutions** from the ITI curri
     <td>
       <ul>
         <li><a href="https://drive.google.com/drive/folders/1PvaQay1-cddCIegXObp5X5DW8cXpCo85">Lectures Best Notes</a></li>
-        <li><a href="https://www.youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2">Lectures Playlist - YouTube</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2">Lectures Playlist (By Eng.Rami)</a></li>
       </ul>
     </td>
   </tr>
