@@ -11,10 +11,10 @@
 ## 📋 Repository Description  
 ITI DB-SQL Labs Answers by me, featuring:
 
-- **Fully documented** code solutions  
-- **Visual schema diagrams**  
-- **Multiple implementation approaches**  
-
+- **Lab Folders**: Each lab is organized into its own folder, containing:
+- **SQL Scripts**: Detailed solutions for each lab exercise.
+- **Backup Files**: .bak files for restoring the database state pertinent to each lab.
+- **Resources**: Additional materials to supplement your learning.
 ---
 
 ## 📚 Notes & Links helped me revising and remembering:
