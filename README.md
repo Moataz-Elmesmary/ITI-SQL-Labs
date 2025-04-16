@@ -1,1 +1,59 @@
-# ITI-SQL-Labs
+# ITI SQL Server Labs - Complete Solutions
+
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/243c5c7d-3d39-48f1-b54c-77659bd80f25" alt="ITI Logo" height="100">
+    </td>
+  </tr>
+</table>
+
+## 📋 Repository Description  
+A comprehensive collection of **SQL Server lab solutions** from the ITI curriculum, featuring:
+
+- **Fully documented** code solutions  
+- **Visual schema diagrams**  
+- **Multiple implementation approaches**  
+
+---
+
+## 📚 Notes & Links helped me revising and remembering:
+
+<table>
+  <tr>
+    <td width="30%"><b>Based On Lectures</b></td>
+    <td>
+      <ul>
+        <li><a href="https://drive.google.com/drive/folders/1PvaQay1-cddCIegXObp5X5DW8cXpCo85">Lectures Best Notes</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2">Lectures Playlist - YouTube</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Helpful Notes</b></td>
+    <td>
+      <ul>
+        <li><a href="https://relic-dimple-eee.notion.site/SQL-c11692abdd894c89ab73d82545db0e63">SQL Syntax Guide</a></li>
+        <li><a href="https://well-stoat-3a6.notion.site/SQL-3121837d8bb24c798a20057b43cc3307">Database Design Patterns</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Full BI Track Materials
+For complete Business Intelligence resources from the ITI program, visit:
+🔗 [ITI Business Intelligence Development Repository](https://github.com/Moataz-Elmesmary/ITI-Business-Intelligence-Development)
+
+<table>
+  <tr>
+    <td>
+      <p><b><i>ITI Intensive Code Camp – Power BI Developer Specialization</i></b></p>
+      <p>All lab solutions and resources from the official curriculum</p>
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/243c5c7d-3d39-48f1-b54c-77659bd80f25" alt="ITI Logo" height="80">
+    </td>
+  </tr>
+</table>
