@@ -20,7 +20,7 @@ ITI DB-SQL Labs Answers by me, featuring:
 
 ---
 
-## 📚 Notes & Links helped me revising and remembering:
+## 📚 Notes & Links helps me revising and remembering:
 
 <table>
   <tr>
