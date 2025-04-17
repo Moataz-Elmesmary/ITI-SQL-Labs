@@ -1,4 +1,6 @@
-# ITI SQL Labs - Complete Solutions
+# ITI SQL Labs - Complete Solutions <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" alt="SQL Logo"/> 
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY2VlZ3FqY2JjY3B6eG5jZ2Z4dWZ6eGQ2a2RjbjB1dGZ6eWZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="200" align="right" alt="Database Gif">
 
 <table align="right">
   <tr>
@@ -15,6 +17,7 @@ ITI DB-SQL Labs Answers by me, featuring:
 - **SQL Scripts**: Detailed solutions for each lab exercise.
 - **Backup Files**: .bak files for restoring the database state pertinent to each lab.
 - **Resources**: Additional materials to supplement your learning.
+
 ---
 
 ## 📚 Notes & Links helped me revising and remembering:
@@ -42,7 +45,30 @@ ITI DB-SQL Labs Answers by me, featuring:
 
 ---
 
-## 🚀 Full BI Track Materials
-*For complete Business Intelligence resources from the ITI program, visit:*<br>
-🔗 [ITI Business Intelligence Development Repository](https://github.com/Moataz-Elmesmary/ITI-Business-Intelligence-Development)
+## 🚀 Full Power BI Track Materials
+
+
+<div align="center">
+  <a href="https://github.com/Moataz-Elmesmary/ITI-Business-Intelligence-Development">
+    <img src="https://img.shields.io/badge/_My_BI_Repository-Important-blue?style=for-the-badge&logo=github">
+  </a> <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
+  <br>
+  <em>Complete collection of BI track materials, projects, and resources</em>
+</div>
+
+<details>
+<summary>💡 Database Tip</summary>
+  
+
+-- <h5>Pro Tip: Always BACKUP before you ALTER!</h5>
+
+| Situation                  | Backup Type       | Risk Level |
+|----------------------------|-------------------|------------|
+| Before ALTER TABLE          | Full DB           | ☠️☠️☠️☠️☠️ |
+| Before running DELETE       | Transaction Log   | ☠️☠️☠️     |
+| Before Power BI refresh     | .pbix File        | ☠️☠️☠️☠️   |
+| Before Projects submission   | Both .bak and .sql| ☠️☠️☠️☠️☠️ |
+
+---
+
 
