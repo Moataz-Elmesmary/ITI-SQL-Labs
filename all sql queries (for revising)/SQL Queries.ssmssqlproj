@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Queries">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="RAMI-PC:Rami-PC\Rami">
+          <Created>2013-11-17T16:29:19.0704403+02:00</Created>
+          <Type>SQL</Type>
+          <Server>RAMI-PC</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Backup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Backup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Basics Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Basics Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Batch and Transaction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Batch and Transaction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Bulk Insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Bulk Insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Case.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Case.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Collection.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Collection.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Control of flow.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Control of flow.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create DB and Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create DB and Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Cursor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Cursor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DB Integrity.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DB Integrity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Fetch and offset2012.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Fetch and offset2012.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Functions SQL2012(New).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Functions SQL2012(New).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Identity.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Identity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Merge.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Merge.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Output Keyword.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Output Keyword.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Partitioning..sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Partitioning..sql</FullPath>
+        </FileNode>
+        <FileNode Name="Permissions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Permissions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Pivot and Group.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Pivot and Group.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Rank.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Rank.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Schema and Synonym.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Schema and Synonym.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sequence2012.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Sequence2012.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SnapShot.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SnapShot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Stord.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Stord.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Table Valued Parameter.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Table Valued Parameter.sql</FullPath>
+        </FileNode>
+        <FileNode Name="table variable and temp table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>table variable and temp table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="temporary Tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>temporary Tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Top_With_DML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Top_With_DML.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Vaiables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Vaiables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Views and Index and CTE.SQL">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Views and Index and CTE.SQL</FullPath>
+        </FileNode>
+        <FileNode Name="Write Method.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Write Method.sql</FullPath>
+        </FileNode>
+        <FileNode Name="XML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RAMI-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RAMI-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>XML.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
