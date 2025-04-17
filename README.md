@@ -57,10 +57,10 @@ ITI DB-SQL Labs Answers by me, featuring:
 </div>
 
 <details>
-<summary>💡 Database Tip</summary>
+<summary>💡 Database Tips</summary>
   
 
--- <h5>Pro Tip: Always BACKUP before you ALTER!</h5>
+-- <h3>1. Pro Tip: Always BACKUP before you ALTER!</h3>
 
 | Situation                  | Backup Type       | Risk Level |
 |----------------------------|-------------------|------------|
@@ -68,7 +68,36 @@ ITI DB-SQL Labs Answers by me, featuring:
 | Before running DELETE       | Transaction Log   | ☠️☠️☠️     |
 | Before Power BI refresh     | .pbix File        | ☠️☠️☠️☠️   |
 | Before Projects submission   | Both .bak and .sql| ☠️☠️☠️☠️☠️ |
-
 ---
+</details>
 
+<details>
+<summary><strong>🧼 Writing Clean SQL</strong> – Make your queries readable</summary>
 
+<blockquote>
+“Good code is its own best documentation.” – Steve McConnell  
+“Code is read 10x more than it is written.”
+</blockquote>
+
+### ❌ Before (Spaghetti Code)
+```sql
+select c.customer_id,c.first_name,c.last_name,o.order_id,o.order_date 
+from customers c 
+join orders o on c.customer_id=o.customer_id 
+where c.country='germany' AND o.quantity>100
+```
+
+### ✅ After (Clean & Readable)
+```sql
+SELECT
+    c.customer_id,
+    c.first_name,
+    c.last_name,
+    o.order_id,
+    o.order_date
+FROM customers c
+INNER JOIN orders o
+    ON c.customer_id = o.customer_id
+WHERE c.country = 'Germany'
+    AND o.quantity > 100;
+```
