@@ -53,7 +53,7 @@ ITI DB-SQL Labs Answers by me, featuring:
     <img src="https://img.shields.io/badge/_My_BI_Repository-Important-blue?style=for-the-badge&logo=github">
   </a> <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
   <br>
-  <em>Complete collection of BI track materials, projects, and resources</em>
+  <em>Complete collection of BI track materials, projects, and resources.</em>
 </div>
 
 <details>
