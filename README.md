@@ -81,9 +81,8 @@ ITI DB-SQL Labs Answers by me, featuring:
 ### ❌ Before (Spaghetti Code)
 ```sql
 select c.customer_id,c.first_name,c.last_name,o.order_id,o.order_date 
-from customers c 
-join orders o on c.customer_id=o.customer_id 
-where c.country='germany' AND o.quantity>100
+from customers c join orders o on c.customer_id=o.customer_id 
+where c.country='germany' and o.quantity>100
 ```
 
 ### ✅ After (Clean & Readable)
