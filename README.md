@@ -57,10 +57,10 @@ ITI DB-SQL Labs Answers by me, featuring:
 </div>
 
 <details>
-<summary>💡 Database Tips</summary>
+<summary>💡 Database Tip</summary>
   
 
--- <h3>1. Pro Tip: Always BACKUP before you ALTER!</h3>
+<h3>1. Pro Tip: Always BACKUP before you ALTER!</h3>
 
 | Situation                  | Backup Type       | Risk Level |
 |----------------------------|-------------------|------------|
@@ -75,8 +75,7 @@ ITI DB-SQL Labs Answers by me, featuring:
 <summary><strong>🧼 Writing Clean SQL</strong> – Make your queries readable</summary>
 
 <blockquote>
-“Good code is its own best documentation.” – Steve McConnell  
-“Code is read 10x more than it is written.”
+“Good code is its own best documentation.” – Steve McConnell</blockquote>
 </blockquote>
 
 ### ❌ Before (Spaghetti Code)
