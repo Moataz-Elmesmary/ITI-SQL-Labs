@@ -60,7 +60,7 @@ ITI DB-SQL Labs Answers by me, featuring:
 <summary>💡 Database Tip</summary>
   
 
-<h3>1. Pro Tip: Always BACKUP before you ALTER!</h3>
+<h5>Pro Tip: Always BACKUP before you ALTER!</h5>
 
 | Situation                  | Backup Type       | Risk Level |
 |----------------------------|-------------------|------------|
