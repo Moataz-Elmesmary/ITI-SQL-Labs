@@ -28,6 +28,7 @@ ITI DB-SQL Labs Answers by me, featuring:
     <td>
       <ul>
         <li><a href="https://drive.google.com/drive/folders/1PvaQay1-cddCIegXObp5X5DW8cXpCo85">Lectures Best Notes</a></li>
+        <li><a href="https://whispering-narcissus-931.notion.site/ITI-Database-Course-By_Amr-112de9a262fa80a8bff9ed9233477068">Full Notes & Material</a></li>
         <li><a href="https://www.youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2">Lectures Playlist (By Eng.Rami)</a></li>
       </ul>
     </td>
@@ -36,6 +37,7 @@ ITI DB-SQL Labs Answers by me, featuring:
     <td><b>Helpful Notes</b></td>
     <td>
       <ul>
+        <li><a href="https://drive.google.com/file/d/1m0p7yXo53POmfcIS1DlPOwDGvpVYAG8R/view">Notes by Mohamed Magdy</a></li>
         <li><a href="https://relic-dimple-eee.notion.site/SQL-c11692abdd894c89ab73d82545db0e63">Notes by Mariem Abdalwahab</a></li>
         <li><a href="https://well-stoat-3a6.notion.site/SQL-3121837d8bb24c798a20057b43cc3307">Notes by Mohamed Mattar</a></li>
       </ul>
